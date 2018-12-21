@@ -17,7 +17,7 @@
 >
 > ed_out = ed_model(x)
 
-## Supported Modeule List
+## Supported Modules List
 * Reverse ( like tf.reverse )
 * ExpandDims ( like tf.expand_dims )
 * ReflectionPadding2D ( like tf.pad(inputs, pattern, mode='REFLECT') )
