@@ -1,4 +1,4 @@
-# SSU Keras
+# SSU Keras Layers
 
 ### This repository is custom module inherited from tf.keras.layers bundle for tensorflow v2.x
 
